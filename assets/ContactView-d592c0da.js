@@ -1,0 +1,1 @@
+import{o as e,c as o,b as s,a as t,F as a}from"./index-23424921.js";const c={class:"works"},n=t("h1",{class:"text-3xl font-sans font-bold pb-10"}," Contact ",-1),r=t("div",null,[t("h3",{class:"font-serif pb-6"}," Contactgegevens")],-1),p={__name:"ContactView",setup(_){return(l,d)=>(e(),o("div",c,[n,r,s(a)]))}};export{p as default};
